@@ -1,9 +1,6 @@
-<h1>⚡ PROZ-EDUCAO </h1>
-<h3>Challenge and development of tasks from my study BOOTCAMP AWS + Prog</h3>
+<h1> Intro Prog </h1>
+<h3>Basics on python</h3>
 
 *   Intro Prog Python 
-*   Html
-*   Css
-*   JS
-*   Database Concepts
-*   AWS Focused Study
+*   Cases 
+*   resolutions 
